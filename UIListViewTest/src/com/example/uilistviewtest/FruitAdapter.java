@@ -10,6 +10,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+
+//自定义水果实体类适配器
+
 public class FruitAdapter extends ArrayAdapter<Fruit> {
 
 	private int resourceId;
